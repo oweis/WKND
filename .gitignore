@@ -25,5 +25,8 @@ hs_err_pid*
 # Author instance
 /Author
 
+# Publish instance
+/Publish
+
 # Intellij IDEA
 /.idea
